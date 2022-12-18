@@ -8,3 +8,5 @@ Contains code for selfie generator for various
 | Progress Club Safal | https://selfie.sahajananddigital.in/safal |
 | Rajkot Gurukul Amrut Mahotsav | https://selfie.sahajananddigital.in/amrut-mahotsav |
 | Rajkot Gurukul Amrut Mahotsav English | https://selfie.sahajananddigital.in/amrut-mahotsav-english |
+| Rajkot Gurukul Amrut Mahotsav old | https://selfie.sahajananddigital.in/amrut-mahotsav-old |
+| Rajkot Gurukul Amrut Mahotsav English old | https://selfie.sahajananddigital.in/amrut-mahotsav-english-olds |
