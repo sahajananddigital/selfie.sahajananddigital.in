@@ -3,6 +3,7 @@ Contains code for selfie generator for various
 
 | Description | Links |
 | ----- | ---- |
+| Gopal Gaushala Sarambhada | https://selfie.sahajananddigital.in/gopalgaushala |
 | Gopalanand Swami Mahotsav Savarkundala | https://selfie.sahajananddigital.in/gsvm |
 | Gopalanand Swami Mahotsav Savarkundala For DP | https://selfie.sahajananddigital.in/gsvm-dp |
 | Progress Club Safal | https://selfie.sahajananddigital.in/safal |
