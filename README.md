@@ -3,6 +3,7 @@ Contains code for selfie generator for various
 
 | Description | Links |
 | ----- | ---- |
+| Gurukul Dhunmandal | https://selfie.sahajananddigital.in/gurukul-dhunmandal |
 | Akman | https://selfie.sahajananddigital.in/akman |
 | Gopal Gaushala Sarambhada | https://selfie.sahajananddigital.in/gopalgaushala |
 | Gopalanand Swami Mahotsav Savarkundala | https://selfie.sahajananddigital.in/gsvm |
