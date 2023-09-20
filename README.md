@@ -3,6 +3,7 @@ Contains code for selfie generator for various
 
 | Description | Links |
 | ----- | ---- |
+| MurtiPratistha Mahotsav - Parvala | https://selfie.sahajananddigital.in/mahotsav-parvala |
 | Gurukul Dhunmandal | https://selfie.sahajananddigital.in/gurukul-dhunmandal |
 | Akman | https://selfie.sahajananddigital.in/akman |
 | Gopal Gaushala Sarambhada | https://selfie.sahajananddigital.in/gopalgaushala |
