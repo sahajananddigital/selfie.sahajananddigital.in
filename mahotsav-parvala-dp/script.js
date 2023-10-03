@@ -61,7 +61,7 @@ function mergeSelfie(imgURL, textInput){
 
   mergeImages([
     { src: 'bg.png', x: 0, y: 0 },
-    { src: imgURL, x:750, y: 1390 },
+    { src: imgURL, x:725, y: 1390 },
   ], {nameText: textInput}).then(b64 => imageSrc = b64).then( b64 => {
     aTag.href = imageSrc;
     return b64;
